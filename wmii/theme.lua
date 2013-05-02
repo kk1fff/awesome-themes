@@ -59,15 +59,15 @@ theme.bg_urgent     = "#C1C48B"
 -- }}}
 
 -- {{{ Borders
-theme.border_width  = "1"
+theme.border_width  = "3"
 theme.border_normal = "#81654F"
-theme.border_focus  = "#000000"
+theme.border_focus  = "#00ff00"
 theme.border_marked = "#CF6171"
 -- }}}
 
 -- {{{ Titlebars
-theme.titlebar_bg_focus  = "#81654F"
-theme.titlebar_bg_normal = "#C1C48B"
+theme.titlebar_bg_focus  = "#00a000"
+theme.titlebar_bg_normal = "#000000"
 -- theme.titlebar_[normal|focus]
 -- }}}
 
